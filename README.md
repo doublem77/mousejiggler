@@ -1,15 +1,17 @@
 # mousejiggler
 Simulare il movimento del mouse impedendo l'attivazione dello screensaver, la sospensione, la modalità stand-by. 
-Utile per i corsi che chiedono che l'utente sia attivo mentre i video scorrono e per quelle situazioni in cui ogni installazione di sofwatre viene bloccata dagli amministratori di sistema del raparto IT.
+Utile per i corsi che chiedono che l'utente sia attivo mentre i video scorrono e per quelle situazioni in cui ogni installazione di software viene bloccata dagli amministratori di sistema del reparto IT.
 
+Cosa serve:
 
-Versione per Raspberry Pi 2040-Zero (https://amzn.to/3Fdc5j6)
-
-Cosa vi serve:
 Raspberry Pi 2040-Zero ---> https://amzn.to/3Fdc5j6
+
 Thonny - Python IDE for beginners ---> https://thonny.org/
+
 CircuitPython  ---> https://circuitpython.org/board/waveshare_rp2040_zero/
+
 adafruit_hid ---> https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases
+
 
 Come procedere:
 
